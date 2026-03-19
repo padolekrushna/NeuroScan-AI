@@ -109,13 +109,3 @@ This project is configured natively for Vercel using `vercel.json` which maps `/
 > - ❌ It should **NOT** be used as a substitute for professional medical diagnosis or treatment
 > - ✅ Always consult **qualified healthcare professionals** for medical decisions
 > - ✅ This tool is designed to assist, not replace, medical expertise
-
----
-
-## 👤 Author
-
-**Jaidatt Kale**
-- 🔗 [LinkedIn](https://linkedin.com/in/jaidattkale)
-- 🔗 [GitHub](https://github.com/jaidatt007)
-
-*Project restructured to React/FastAPI.*
