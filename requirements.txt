@@ -1,0 +1,15 @@
+ipykernel
+
+kagglehub
+
+numpy
+pandas
+seaborn
+pillow
+tensorflow
+numpy
+pillow
+scikit-learn
+matplotlib
+
+flask
